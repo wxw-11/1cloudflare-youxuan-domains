@@ -1,7 +1,7 @@
 cf.tencentapp.cn
 b3.cfyx.20237737.xyz
 cn.vuejs.org
-m.iyf.tv
+20纯 m.iyf.tv
 spring.io
 www.veryssl.com
 cfyx.dnspod.20237737.xyz
@@ -86,7 +86,7 @@ www.5199dy.com
 cf-cname.xingpingcn.top
 cdn.2020111.xyz
 bestcf.top
-www.speedtest.net
+20纯 www.speedtest.net
 nrtcfdns.zone.id
 csgo.com
 www.visa.com.hk
